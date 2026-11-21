@@ -11,11 +11,11 @@ I focus on understanding systems end to end: how a request moves through an appl
 | Project | What it does | Stack | Demo |
 |---|---|---|---|
 | [CareerLens](https://github.com/sai-manikanta-kadali/CareerLens) | Internship skill-gap analysis, opportunity ranking, and learning roadmaps | Python, FastAPI, MongoDB, JWT, Docker | [Live demo](https://careerlens-z9ty.onrender.com) |
-| [Resumate AI](https://github.com/sai-manikanta-kadali/AI_Resume_Analyzer) | Resume and job-description analysis with explainable skill and similarity scoring | Flask, React, NLP, TF-IDF, SQLite | Source |
+| [Resumate AI](https://github.com/sai-manikanta-kadali/AI_Resume_Analyzer) | Resume and job-description analysis with explainable skill and similarity scoring | Flask, React, NLP, TF-IDF, SQLite | [Repository](https://github.com/sai-manikanta-kadali/AI_Resume_Analyzer) |
 | [EduSphere AI](https://github.com/sai-manikanta-kadali/EduSphere-AI) | Student marks dashboard with academic summaries and AI-generated insights | Python, Flask, SQLite, OpenAI API | [Live demo](https://edusphere-ai-odpl.onrender.com) |
-| [ChargeNear](https://github.com/sai-manikanta-kadali/ChargerEV) | EV community-charging prototype with maps, booking workflows, and an AI help tutor | React, TypeScript, Express, Leaflet, Gemini | Source |
-| [Weather Calling AI Agent](https://github.com/sai-manikanta-kadali/weather-calling-ai-agent) | Gemini-powered agent that calls a weather tool and uses its real API observation | Python, Gemini API, Open-Meteo, JSON | Notebook |
-| [Gemini AI Agent with Python Tools](https://github.com/sai-manikanta-kadali/ai-agent) | Experiments with LLM function calling and Python tools | Python, Gemini API | Notebook |
+| [ChargeNear](https://github.com/sai-manikanta-kadali/ChargerEV) | EV community-charging prototype with maps, booking workflows, and an AI help tutor | React, TypeScript, Express, Leaflet, Gemini | [Repository](https://github.com/sai-manikanta-kadali/ChargerEV) |
+| [Weather Calling AI Agent](https://github.com/sai-manikanta-kadali/weather-calling-ai-agent) | Gemini-powered agent that calls a weather tool and uses its real API observation | Python, Gemini API, Open-Meteo, JSON | [Notebook](https://github.com/sai-manikanta-kadali/weather-calling-ai-agent/blob/main/weather_agent.ipynb) |
+| [Gemini AI Agent with Python Tools](https://github.com/sai-manikanta-kadali/ai-agent) | Experiments with LLM function calling and Python tools | Python, Gemini API | [Notebook](https://github.com/sai-manikanta-kadali/ai-agent/blob/main/LLM_ToolCalling_.ipynb) |
 | [Python Mini AI Agent](https://github.com/sai-manikanta-kadali/mini-ai-agent) | Beginner tool-routing agent with calculator, web-search, and simulated email tools | Python, DuckDuckGo | [Live demo](https://python-mini-ai-agent-rwkwdd7fjvalx56cnohbgq.streamlit.app/) |
 
 ## More Projects
